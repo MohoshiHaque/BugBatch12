@@ -23,7 +23,7 @@ public class Twelveclass1 {
 		
 		WebDriverManager.firefoxdriver().setup();
 		driver=new FirefoxDriver();
-		driver.get("https://www.saucedemo.com/");
+		driver.get("https://www.saucedemooo.com/");
 		driver.manage().window().maximize();
 		
 	}
